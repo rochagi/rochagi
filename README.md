@@ -14,6 +14,5 @@
 
 <div> 
   <a href = "mailto:grocha0507@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "https://www.hackerrank.com/grocha0507"><img src="https://user-images.githubusercontent.com/71514413/109400301-00b29880-796e-11eb-9a74-a7d9ec286e3b.jpg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanna-rocha-1193b4a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
